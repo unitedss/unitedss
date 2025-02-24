@@ -26,6 +26,7 @@
 
 <h1>About me 🐉</h1>
 
+<br>
 
 <h1>Socials ☕</h1>
 
