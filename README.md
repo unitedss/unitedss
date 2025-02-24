@@ -26,7 +26,6 @@
 
 <h1>About me 🐉</h1>
 
-Hey, my name is btw
 
 <h1>Socials ☕</h1>
 
