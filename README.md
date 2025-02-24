@@ -24,4 +24,4 @@
 <br>
 <code>studying java & c++ 🪶</code>
 
-<h1>About me 🚀</h1>
+<h1>About me 🐉</h1>
