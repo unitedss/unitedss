@@ -25,3 +25,7 @@
 <code>studying java & c++ 🪶</code>
 
 <h1>About me 🐉</h1>
+
+<h1>Socials ☕</h1>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/659838596139974657?showDisplayName=true)](https://discord.com/users/659838596139974657)
