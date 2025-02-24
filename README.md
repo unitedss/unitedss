@@ -22,4 +22,4 @@
 </a>
 <br>
 <br>
-<code>studying java & c++ ⚛️</code>
+<code>studying java & c++ 🪶</code>
