@@ -20,4 +20,6 @@
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25"/>
 </a>
+<br>
+<br>
 <code>studying java & c++ ⚛️</code>
