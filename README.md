@@ -3,5 +3,5 @@
 ### btw
 <hr></hr>
 🎨 <i>Web Developer</i><br>
-🏛️ <i>History Fan</i>
+🏛️ <i>History Fan</i><br>
 🍢 <i>Peruvian</i><br>
