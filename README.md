@@ -2,7 +2,7 @@
   <img width="200" height="200" align="left" src="https://cdn.discordapp.com/attachments/1342731383512104985/1343658444942741554/mdb.jpg?ex=67be12f1&is=67bcc171&hm=0cca1e907840a18268a5914139bcde079a3fb18ad3940f6baf96a0db5e75249e&" alt="btw">
 </a>
 
-### btw
+### btw 🐼
 <hr></hr>
 🎨 <i>Web Developer</i><br>
 🏛️ <i>History lover</i><br>
