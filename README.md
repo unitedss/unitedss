@@ -32,4 +32,6 @@
 
 <h1>Socials ☕</h1>
 
+My discord account: loverstar
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1041288610923692114?showDisplayName=true)](https://discord.com/users/1041288610923692114)
