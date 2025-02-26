@@ -32,4 +32,4 @@
 
 <h1>Socials ☕</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1213853205360943187?showDisplayName=true)](https://discord.com/users/1213853205360943187)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1041288610923692114?showDisplayName=true)](https://discord.com/users/1041288610923692114)
