@@ -34,4 +34,4 @@
 
 My discord account: loverstar
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1041288610923692114?showDisplayName=true)](https://discord.com/users/1041288610923692114)
+[![Discord Presence](https://lanyard.cnrad.dev/api/659838596139974657?showDisplayName=true)](https://discord.com/users/659838596139974657)
